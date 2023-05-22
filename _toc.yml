@@ -10,8 +10,6 @@ chapters:
   - file: 1.1-RelevantTech.ipynb
   - file: 1.2-CurrentProjects.ipynb
   - file: 1.3-EthicalConcerns.ipynb
-  - file: 1.4-TechnologyInvolved.ipynb
-  - file: 1.5-ProblemSolved.ipynb
   - file: Python_Introduction.ipynb
 - file: 2-Neuroscience.md
   sections:

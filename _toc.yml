@@ -4,6 +4,7 @@
 format: jb-book
 root: 0-HowToUseThisTextbook.md
 chapters:
+- file: NMEP_ToStudent.ipynb
 - file: 1-Intro.md
   sections:
   - file: 1.1-RelevantTech.md

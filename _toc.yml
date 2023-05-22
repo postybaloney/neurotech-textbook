@@ -10,6 +10,7 @@ chapters:
   - file: 1.1-RelevantTech.md
   - file: 1.2-CurrentProjects.md
   - file: 1.3-EthicalConcerns.md
+  - file: Python_Introduction.ipynb
 - file: 2-Neuroscience.md
   sections:
   - file: 2.1-Brain.md
